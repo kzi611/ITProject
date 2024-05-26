@@ -3,19 +3,15 @@ body{
     margin: 0; /* Remove default margin */
     background-position: center; /* Center the background image */
     background-repeat: no-repeat; /* Do not repeat the background */
-    background-size: cover; /* Resize the background image to cover the entire container */
+    background-size: cover; 
 }
 
 h1 {
-    top: 15%;
-    left: 50%;
-    transform: translate(-50%, -50%);
-    position: absolute;
     font-family: 'Courier New', Courier, monospace;
     letter-spacing: 1px;
     word-spacing: 2px;
-    color: #1313d7;
-    font-size: 100px;
+    color: #13d7c7;
+    font-size: 40px;
     font-weight:bolder;
     text-transform: uppercase;
   }
